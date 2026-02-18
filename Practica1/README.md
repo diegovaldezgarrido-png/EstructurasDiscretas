@@ -1,7 +1,7 @@
 # Práctica 1
 
 ## 1. Objetivos:
-El objetivo de esta prática fue entender que es Haskell, como se usa y que tiene de diferencias con otros lenguajes de programación, porque va a ser importante para este curso.
+El objetivo de esta prática fue entender que es Haskell, como se usa y que tiene de diferencias con otros lenguajes de programación.
 
 ## 2. Tiempo requerido en realizar la practica completa:
 Aproximadamente 4 horas.
